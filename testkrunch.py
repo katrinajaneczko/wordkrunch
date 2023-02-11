@@ -127,4 +127,12 @@ if __name__ == "__main__":
     pygame.quit()
     
     
-    
+#import matt's map code    
+#take my screenSize var (line 33)
+#import my player method into a spot where it can be used in your running game loop
+#put lines 61 and 62 into the a global spot for the game running loop
+#put line 66 into your game running while loop
+#call player method with updatedPlayerX and Y variables (line 72)
+#import my scope statements lines 74-81 into your game running loop
+#import lines 83-91 into your game running loop
+#this should not cause issues with your code while also allowing mine to live in there well.
